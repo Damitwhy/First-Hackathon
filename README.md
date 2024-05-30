@@ -4,6 +4,23 @@
 
 This is a hackathon project that we're collaborating on. We're excited to have you on board. This project is a great opportunity for us to work together and create something amazing.
 
+Please enter Names of all collaborators for this project:
+
+1)
+2)
+3)
+4)
+
+Name the Project:
+
+#
+
+Give some some details for the project requirements, build description, what are we building?:
+
+
+
+
+
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for our hackathon project.
 
 You can safely delete this README.md file or change it for our own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 28, 2024**
