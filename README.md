@@ -11,15 +11,17 @@ Please enter Names of all collaborators for this project:
 3)
 4)
 
-Name the Project:
+# Name the Project:
 
-#
+##
 
-Give some some details for the project requirements, build description, what are we building?:
-
-
-
-
+# Give some some details for the project requirements, build description, what are we building?:
+|
+|
+|
+|
+|
+|
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for our hackathon project.
 
