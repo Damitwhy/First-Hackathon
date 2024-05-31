@@ -6,7 +6,11 @@ This is a hackathon project that we're collaborating on. We're excited to have y
 
 Please enter Names of all collaborators for this project:
 
+<<<<<<< HEAD
+1) Craig Allen
+=======
 1)Ken.
+>>>>>>> main
 2)
 3)
 4)
